@@ -1,0 +1,63 @@
+
+/*.text{
+	font-family: 'Dokdo', cursive;
+	text-align: right;
+	float:right;
+	font-size: 45px;
+	height: 60%;
+	width:600px;
+	
+	
+}
+.title{
+	font-family: 'Dokdo', cursive;
+	font-size: 180px;
+	float:left;
+	height:40%;
+	width:600px;
+}
+.subtitle{
+	font-family: 'Dokdo', cursive;
+	float:right;
+}*/
+
+.I{
+	margin:15px;
+	font-family: 'Dokdo', cursive;
+	text-align:center;
+	}
+.II{
+	height:640px;
+	width:100%;
+	float:left;
+	font-family: 'Dokdo', cursive;
+}
+.III{
+	height:100%;
+	width:60%;
+	float:left;
+	font-family: 'Dokdo', cursive;
+}
+.IV{
+
+	font-family: 'Dokdo', cursive;
+}
+.V{
+	
+	font-family: 'Dokdo', cursive;
+	font-size: 12.250em;
+	
+	padding:0px;
+	
+}
+.VI{
+	padding-top:23px;
+	font-family: 'Dokdo', cursive;
+	font-size: 2.1em;
+	text-align:right;
+	
+
+}
+p{
+	font-size:18px;
+}
